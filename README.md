@@ -1,4 +1,5 @@
 # Cyberbullying-Detection
+![Image](accuracy_comparison.jpg)
 
 The project, titled "Detecting Cyberbullying using Deep Learning", aims to investigate cyber aggression on Twitter, focusing on identifying derogatory tweets based on gender, race, or sexual orientation. It seeks to develop an automated system capable of accurately analyzing text-based content across online platforms to detect instances of cyberbullying. 
 
